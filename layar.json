@@ -10,13 +10,14 @@
         }
       },
       "icon": {
-        "url": "https://raw.githubusercontent.com/DianaLazaroA/RA_prueba/master/28343195_1773640109367393_1936338033_o.jpg"
+        "url": "https://raw.githubusercontent.com/DianaLazaroA/RA_prueba/master/mercado.jpg"
       },
       "id": 1,
       "text": {
-        "title": "Mercado Benito Juarez"
+        "title": "Mercado Benito Juarez",
+        "description": "Mercado en el corazón de oaxaca con una gran variedad de productos oaxaqueños, podra encontrar ropa típica, juguetes tradicionales, quesillo, etc. "
       }
     }
   ],
-  "layer": ""
+  "layer": "merbenitojua1120 "
 }
